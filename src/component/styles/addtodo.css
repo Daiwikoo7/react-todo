@@ -1,0 +1,33 @@
+form{
+    width: 400px;
+    margin: 0px 63px;
+}
+#name{
+    display: block;
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+#description{
+    display: block;
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+#date{
+    display: block;
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+.submit-btn{
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+}
+*{
+    box-sizing: border-box;
+}

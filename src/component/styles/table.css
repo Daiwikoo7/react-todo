@@ -1,0 +1,33 @@
+th {
+  border: 1px solid black;
+  padding: 10px;
+}
+td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+.table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+.todos {
+  margin: 0px 62px;
+}
+tr {
+  border: 0;
+}
+
+.delete-btn {
+  background-color: white;
+  color: red;
+  border: 1px solid red;
+  padding: 5px;
+}
+.edit-btn{
+  background-color: white;
+  color: grey;
+  border: 1px solid grey;
+  padding: 5px;
+}
